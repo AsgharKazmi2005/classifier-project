@@ -3,6 +3,5 @@ expirements.py includes a run_classification function where you can choose class
 To run the file, download it, ensure it is in the same directory as spam.csv, and then run file with
 
 ```
-python expirements.py
-
+python expirement.py
 ```
